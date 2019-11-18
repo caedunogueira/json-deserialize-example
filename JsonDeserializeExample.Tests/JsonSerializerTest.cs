@@ -6,7 +6,7 @@ using Xunit;
 
 namespace JsonDeserializeExample.Tests
 {
-    public class JsonUnitTest
+    public class JsonSerializerTest
     {
         [Fact]
         public void ShouldDeserializeStringIntoPerson()
