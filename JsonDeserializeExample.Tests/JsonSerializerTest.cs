@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 using System.Text.Json;
-using JsonDeserializeExample.Library.Entity;
+using JsonDeserializeExample.Library.DTO;
 using Xunit;
 
 namespace JsonDeserializeExample.Tests

@@ -1,4 +1,4 @@
-namespace  JsonDeserializeExample.Library.Entity
+namespace  JsonDeserializeExample.Library.DTO
 {
     public class Person
     {
